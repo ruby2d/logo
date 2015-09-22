@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500" height="350" viewBox="0 -10 500 375">
+  
+  <!-- Base color: #f63c38 -->
+  
+  <polygon stroke="#fff" stroke-width="20" points="0,100 100,0 250,0 400,0 500,100 250,350" />
+  <polygon fill="#f63c38" points="0,100 100,0 250,0 400,0 500,100 250,350" />
+  
+  <polygon fill="#ee3a36" points="100,0 250,0 140,100" />
+  <polygon fill="#e43734" points="400,0 250,0 360,100" />
+  
+  <polygon fill="#f86c69" points="0,100 100,0 140,100" />
+  <polygon fill="#f75955" points="140,100 250,0 360,100" />
+  <polygon fill="#f64f4c" points="400,0 500,100 360,100" />
+  
+  <polygon fill="#f64542" points="0,100 140,100 250,350" />
+  <polygon fill="#ea362c" points="140,100 360,100 250,350" />
+  <polygon fill="#d83431" points="500,100 360,100 250,350" />
+  
+</svg>
